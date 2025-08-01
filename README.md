@@ -26,9 +26,10 @@ Se você curte tecnologia, bora compartilhar umas ideias!
 
 ---
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=radical)
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=radical" />
+</div>
 
 ---
 
