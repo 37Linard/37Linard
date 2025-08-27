@@ -1,10 +1,10 @@
 ## Oi, eu sou o Gabriel! 💻
 
-Estudante de Ciência da Computação e futuro Dev Full-Stack 🚀
+Estudante de Ciência da Computação | Explorando o universo da TI 🚀
 
-Curioso por natureza, movido a código e café (sem lactose, por favor). Tô sempre buscando aprender mais sobre programação, sistemas escaláveis e maneiras de gamificar o aprendizado!
+Apaixonado por tecnologia, programação e soluções criativas. Tenho interesse em desenvolvimento de software, bancos de dados e boas práticas em TI. Curioso por natureza, gosto de aprender coisas novas e aplicar esse conhecimento em projetos que realmente façam diferença.
 
-Se você curte tecnologia, bora compartilhar umas ideias!
+Sempre aberto a trocar ideias sobre tecnologia, inovação e tendências do mercado!
 
 > 💡 *“Learning by doing. Coding with purpose.”*
 
