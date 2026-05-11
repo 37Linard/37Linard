@@ -1,51 +1,64 @@
-## Oi, eu sou o Gabriel! 💻
+<div align="center">
 
-Estudante de Ciência da Computação | Explorando o universo da TI 🚀
+# Gabriel Linard
 
-Apaixonado por tecnologia, programação e soluções criativas. Tenho interesse em desenvolvimento de software, bancos de dados e boas práticas em TI. Curioso por natureza, gosto de aprender coisas novas e aplicar esse conhecimento em projetos que realmente façam diferença.
+**Estudante de Ciência da Computação** · Brasília, Brasil
 
-Sempre aberto a trocar ideias sobre tecnologia, inovação e tendências do mercado!
+*Apaixonado por tecnologia, código limpo e soluções que fazem diferença.*
 
-> 💡 *“Learning by doing. Coding with purpose.”*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/37Linard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabriel_linard37)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielinard37@gmail.com)
 
----
-
-### 🚀 Tecnologias que tô sempre explorando:
-
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Gabriel-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Gabriel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
 </div>
 
 ---
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=radical" />
+## Sobre mim
+
+Sou estudante de **Ciência da Computação** com interesse em desenvolvimento de software, bancos de dados e boas práticas em TI. Gosto de aprender na prática e de construir projetos que resolvam problemas reais.
+
+Atualmente explorando:
+- 🌐 Desenvolvimento web Full Stack
+- 🗄️ Modelagem e otimização de bancos de dados
+- 🛠️ Boas práticas de engenharia de software
+
+> *"Learning by doing. Coding with purpose."*
+
+---
+
+## Tecnologias
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend & Banco de Dados**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Outras ferramentas**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🌐 Onde me encontrar:
-
-<div> 
-  <a href="https://github.com/37Linard" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> 
-  <a href="https://www.linkedin.com/in/gabriel-linard" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="https://instagram.com/gabriel_linard37" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a> 
-  <a href="mailto:gabrielinard37@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>  
+<div align="center">
+  <sub>Aberto a colaborações, projetos e boas conversas sobre tecnologia 🚀</sub>
 </div>
