@@ -50,11 +50,24 @@ Atualmente explorando:
 
 ---
 
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologia |
+|--------|-----------|------------|
+| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | CSS |
+| [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | CSS / HTML |
+| [⚙️ Sistemas Operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | Java |
+
+---
+
 ## Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=37Linard&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
