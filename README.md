@@ -1,4 +1,4 @@
-adi<!-- HEADER -->
+<!-- HEADER -->
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ide
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="./assets/lero-lero-cat.gif" width="100%" alt="lero lero cat" />
+<img src="https://raw.githubusercontent.com/37Linard/37Linard/main/lero-lero-cat.gif" width="200" alt="lero lero cat" />
 
 </td>
 </tr>
@@ -71,6 +71,5 @@ Aberto a colaborações, projetos e boas conversas sobre tecnologia 🚀
 
 [![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard)
 [![Gmail](https://img.shields.io/badge/Manda_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielinard37@gmail.com)
-[![Snake Game](https://img.shields.io/badge/🐍_Jogar_Snake-161b22?style=for-the-badge)](https://37linard.github.io/snake)
 
 </div>
