@@ -5,7 +5,7 @@
 
 <h1>Oi, eu sou o Gabriel 👋</h1>
 
-Tenho 20 anos e moro em Brasília, DF. 🇧🇷
+Tenho 22 anos e moro em Brasília, DF. 🇧🇷
 
 Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ideias em código — quanto mais desafiador, melhor.
 
