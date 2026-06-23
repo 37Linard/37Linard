@@ -1,112 +1,79 @@
 <!-- HEADER -->
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  ~/dev/37Linard on ⎇ main                           ║
-║  $ cat profile.sh                                    ║
-╚══════════════════════════════════════════════════════╝
-```
+<h1>Oi, eu sou o Gabriel 👋</h1>
 
-# Gabriel Linard
+Tenho 20 anos e moro em Brasília, DF. 🇧🇷
 
-**`CS Student & Developer`** · Brasília, Brasil 🇧🇷
+Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ideias em código — quanto mais desafiador, melhor.
 
-*Apaixonado por tecnologia, código limpo e soluções que fazem diferença.*
+- 🌐 Estudando **Full Stack** na prática
+- 🗄️ Fascinado por **banco de dados** e modelagem
+- 🛠️ Obcecado por **código limpo** e boas práticas
+- 🚀 Sempre aprendendo algo novo
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/37Linard)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabriel_linard37)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielinard37@gmail.com)
+> *"Learning by doing. Coding with purpose."*
 
-</div>
+</td>
+<td valign="top" width="45%" align="center">
 
----
+<img src="https://raw.githubusercontent.com/37Linard/37Linard/main/lero-lero-cat.gif" width="160" alt="lero lero cat" /><br/>
 
-## `$ whoami`
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="matrix" />
 
-```bash
-export NAME="Gabriel Linard"
-export ROLE="CS Student & Developer"
-export LOCATION="Brasília, Brasil 🇧🇷"
-export FOCUS="Full Stack · Databases · Clean Code"
-
-# currently exploring
-exploring("React", "Node.js", "DB design", "Software Engineering")
-
-# philosophy
-echo "Learning by doing. Coding with purpose."
-```
-
-Sou estudante de **Ciência da Computação** com interesse em desenvolvimento de software, bancos de dados e boas práticas em TI. Gosto de aprender na prática e de construir projetos que resolvam problemas reais.
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ cat stack.json`
+## Technologies i know 🛠️
 
-```json
-{
-  "frontend": ["HTML5", "CSS3", "JavaScript", "React"],
-  "backend":  ["Node.js", "Python", "MySQL"],
-  "tools":    ["Git", "C++"]
-}
-```
-
-<div align="left">
-
-**Frontend**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Backend & Banco de Dados**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Outras ferramentas**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Projetos em destaque 📂
+
+| Projeto | Descrição | Tecnologia |
+|--------|-----------|------------|
+| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | `CSS` |
+| [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | `HTML / CSS` |
+| [⚙️ Sistemas Operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | `Java` |
+| [🐍 Snake Game](https://37linard.github.io/snake) | Cobrinha jogável no navegador | `JavaScript` |
+
+---
+
+## Estatísticas 📊
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" />
 
 </div>
 
 ---
 
-## `$ ls -la ./projetos`
-
-| repo | descrição | lang |
-|------|-----------|------|
-| [🖥️ Login-Page-Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | `CSS` |
-| [🏥 Clinica-Medica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | `HTML / CSS` |
-| [⚙️ sistemas-operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | `Java` |
-
----
-
-## `$ git log --stat`
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=37Linard&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117" width="100%" />
+Aberto a colaborações, projetos e boas conversas sobre tecnologia 🚀
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58a6ff" />
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║  aberto a colaborações, projetos e       ║
-║  boas conversas sobre tecnologia 🚀      ║
-║                                          ║
-║  $ _                                     ║
-╚══════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard)
+[![Gmail](https://img.shields.io/badge/Manda_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielinard37@gmail.com)
+[![Snake Game](https://img.shields.io/badge/🐍_Jogar_Snake-161b22?style=for-the-badge)](https://37linard.github.io/snake)
 
 </div>
