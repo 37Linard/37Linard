@@ -19,7 +19,9 @@ Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ide
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/37Linard/37Linard/main/lero-lero-cat.gif" width="200" alt="lero lero cat" />
+<br><br>
+
+<img src="https://raw.githubusercontent.com/37Linard/37Linard/main/lero-lero-cat.gif" width="280" alt="lero lero cat" />
 
 </td>
 </tr>
