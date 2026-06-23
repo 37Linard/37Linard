@@ -1,4 +1,4 @@
-<!-- HEADER -->
+adi<!-- HEADER -->
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -19,9 +19,7 @@ Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ide
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="matrix" />
-
-<img src="https://raw.githubusercontent.com/37Linard/37Linard/main/lero-lero-cat.gif" width="160" alt="lero lero cat" />
+<img src="./assets/lero-lero-cat.gif" width="100%" alt="lero lero cat" />
 
 </td>
 </tr>
@@ -53,7 +51,6 @@ Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ide
 | [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | `CSS` |
 | [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | `HTML / CSS` |
 | [⚙️ Sistemas Operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | `Java` |
-| [🐍 Snake Game](https://37linard.github.io/snake) | Cobrinha jogável no navegador | `JavaScript` |
 
 ---
 
