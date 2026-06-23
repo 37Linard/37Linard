@@ -1,8 +1,16 @@
+<!-- HEADER -->
 <div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  ~/dev/37Linard on ⎇ main                           ║
+║  $ cat profile.sh                                    ║
+╚══════════════════════════════════════════════════════╝
+```
 
 # Gabriel Linard
 
-**Estudante de Ciência da Computação** · Brasília, Brasil
+**`CS Student & Developer`** · Brasília, Brasil 🇧🇷
 
 *Apaixonado por tecnologia, código limpo e soluções que fazem diferença.*
 
@@ -15,20 +23,36 @@
 
 ---
 
-## Sobre mim
+## `$ whoami`
+
+```bash
+export NAME="Gabriel Linard"
+export ROLE="CS Student & Developer"
+export LOCATION="Brasília, Brasil 🇧🇷"
+export FOCUS="Full Stack · Databases · Clean Code"
+
+# currently exploring
+exploring("React", "Node.js", "DB design", "Software Engineering")
+
+# philosophy
+echo "Learning by doing. Coding with purpose."
+```
 
 Sou estudante de **Ciência da Computação** com interesse em desenvolvimento de software, bancos de dados e boas práticas em TI. Gosto de aprender na prática e de construir projetos que resolvam problemas reais.
 
-Atualmente explorando:
-- 🌐 Desenvolvimento web Full Stack
-- 🗄️ Modelagem e otimização de bancos de dados
-- 🛠️ Boas práticas de engenharia de software
-
-> *"Learning by doing. Coding with purpose."*
-
 ---
 
-## Tecnologias
+## `$ cat stack.json`
+
+```json
+{
+  "frontend": ["HTML5", "CSS3", "JavaScript", "React"],
+  "backend":  ["Node.js", "Python", "MySQL"],
+  "tools":    ["Git", "C++"]
+}
+```
+
+<div align="left">
 
 **Frontend**
 
@@ -48,30 +72,41 @@ Atualmente explorando:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologia |
-|--------|-----------|------------|
-| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | CSS |
-| [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | CSS / HTML |
-| [⚙️ Sistemas Operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | Java |
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=37Linard&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
 
+## `$ ls -la ./projetos`
+
+| repo | descrição | lang |
+|------|-----------|------|
+| [🖥️ Login-Page-Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | `CSS` |
+| [🏥 Clinica-Medica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | `HTML / CSS` |
+| [⚙️ sistemas-operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | `Java` |
+
+---
+
+## `$ git log --stat`
+
 <div align="center">
-  <sub>Aberto a colaborações, projetos e boas conversas sobre tecnologia 🚀</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=37Linard&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58a6ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  aberto a colaborações, projetos e       ║
+║  boas conversas sobre tecnologia 🚀      ║
+║                                          ║
+║  $ _                                     ║
+╚══════════════════════════════════════════╝
+```
+
 </div>
