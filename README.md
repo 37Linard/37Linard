@@ -66,7 +66,7 @@ Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ide
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=20" height="150" />
 
 </div>
 
