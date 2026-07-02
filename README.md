@@ -55,9 +55,11 @@ Sou estudante de **Ciência da Computação** no UniCEUB e adoro transformar ide
 
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
-| [🤖 Agente IA Local](https://github.com/37Linard/agente-ia-local) | Assistente autônomo com 27 ferramentas rodando 100% offline — ReAct + RAG + multi-agente | `Python` `FastAPI` `Next.js` `Ollama` |
-| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | `CSS` |
-| [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | `HTML / CSS` |
+| [🤖 IA Ômega](https://github.com/37Linard/IA---Omega) | Agente IA local autônomo — raciocina, planeja e executa tarefas reais, 100% offline, custo zero | `Python` `TypeScript` `FastAPI` `Next.js` |
+| [🗄️ MiniDB](https://github.com/37Linard/MiniDB) | Banco de dados relacional do zero em C++20 — storage engine, buffer pool LRU, B+Tree indexada, WAL | `C++` `CMake` |
+| [🏢 Site Institucional](https://github.com/37Linard/Site-Institucional) | Site institucional para clínica médica — design navy + dourado, responsivo, animações | `HTML` `CSS` `JavaScript` |
+| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login com estilo retrô Windows 95 | `CSS` `HTML` `JavaScript` |
+| [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica médica | `HTML` `CSS` `JavaScript` |
 | [⚙️ Sistemas Operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos práticos da disciplina de SO | `Java` |
 
 ---
