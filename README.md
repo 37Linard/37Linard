@@ -2,28 +2,26 @@
 <tr>
 <td valign="top" width="55%">
 
-Olá, sou o Gabriel 👋
+Gabriel Linard 👋
 
-Tenho 22 anos e resido em Brasília, DF. 🇧🇷
+Brasília, DF. 🇧🇷
 
-Sou estudante de Ciência da Computação no UniCEUB e dedico-me a transformar ideias em soluções de código, buscando sempre os desafios mais complexos.
-
-Minhas áreas de interesse incluem:
+Estudante de Ciência da Computação no UniCEUB. Transformo ideias em código, buscando desafios.
 
 •
-🤖 Inteligência Artificial Local e Agentes Autônomos: Fascinado pelo desenvolvimento e aplicação de IA que opera de forma independente.
+🤖 IA Local & Agentes Autônomos
 
 •
-🌐 Desenvolvimento Full Stack: Experiência prática na construção de aplicações completas, do front-end ao back-end.
+🌐 Full Stack Development
 
 •
-🗄️ Banco de Dados e Modelagem: Profundo interesse em otimização e design de estruturas de dados eficientes.
+🗄️ Banco de Dados & Modelagem
 
 •
-🛠️ Qualidade de Código: Compromisso com a escrita de código limpo e a adoção de boas práticas de desenvolvimento.
+🛠️ Código Limpo & Boas Práticas
 
 •
-🚀 Aprendizado Contínuo: Sempre em busca de novas tecnologias e conhecimentos para aprimorar minhas habilidades.
+🚀 Aprendizado Contínuo
 
 
 "Learning by doing. Coding with purpose."
@@ -43,9 +41,8 @@ Minhas áreas de interesse incluem:
 
 
 
-Tecnologias que Domino 🛠️
+Tech Stack 🛠️
 
-Abaixo estão as principais tecnologias com as quais tenho experiência:
 
 
 
@@ -194,31 +191,28 @@ Abaixo estão as principais tecnologias com as quais tenho experiência:
 
 
 
-
-Projetos em Destaque 📂
-
-Confira alguns dos meus projetos mais relevantes:
+Projetos 📂
 
 Projeto
 Descrição
 Tecnologia
 🤖 IA Ômega
-Agente de IA local autônomo — raciocina, planeja e executa tarefas reais, 100% offline e com custo zero.
+Agente IA local autônomo.
 Python TypeScript FastAPI Next.js
 🗄️ MiniDB
-Banco de dados relacional desenvolvido do zero em C++20, incluindo storage engine, buffer pool LRU, B+Tree indexada e WAL.
+Banco de dados relacional em C++20.
 C++ CMake
 🏢 Site Institucional
-Site institucional para clínica médica, com design navy + dourado, responsivo e animações.
+Site para clínica médica.
 HTML CSS JavaScript
 🖥️ Login Page Win95
-Tela de login com estética retrô inspirada no Windows 95.
+Tela de login estilo Windows 95.
 CSS HTML JavaScript
 🏥 Clínica Médica
-Sistema de gerenciamento completo para clínica médica.
+Sistema de gerenciamento para clínica.
 HTML CSS JavaScript
 ⚙️ Sistemas Operacionais
-Projetos práticos desenvolvidos para a disciplina de Sistemas Operacionais.
+Projetos de SO.
 Java
 
 
@@ -227,9 +221,7 @@ Java
 
 
 
-Estatísticas do GitHub 📊
-
-Minhas atividades e contribuições no GitHub:
+GitHub Stats 📊
 
 <div align="center"> <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=37Linard&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true" height="150" />
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=37Linard&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=20" height="150" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=37Linard&theme=github-dark&hide_border=true&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" /> </div>
@@ -239,7 +231,7 @@ Minhas atividades e contribuições no GitHub:
 
 <div align="center">
 
-Estou aberto a colaborações, novos projetos e conversas sobre tecnologia. Sinta-se à vontade para entrar em contato!
+Colaborações, projetos e conversas sobre tecnologia são bem-vindos.
 
 
 
