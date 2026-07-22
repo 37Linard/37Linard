@@ -9,10 +9,10 @@
 Estudante de Ciência da Computação no UniCEUB (7º semestre, formatura prevista em 2027). Transformo ideias em código e gosto de ir atrás de desafios que me tirem da zona de conforto.
 
 - 🤖 IA Local & Agentes Autônomos
+- 🦀 Sistemas & Programação Bare-Metal (Rust)
 - 🌐 Full Stack Development
 - 🗄️ Banco de Dados & Modelagem
-- 🔐 Fundamentos de Cibersegurança
-- 🛠️ Código Limpo & Boas Práticas
+- 🔐 Cibersegurança (pentest web, extensões, hardening)
 - 🚀 Aprendizado Contínuo
 
 > *"Learning by doing. Coding with purpose."*
@@ -34,6 +34,7 @@ Estudante de Ciência da Computação no UniCEUB (7º semestre, formatura previs
 **Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -64,21 +65,25 @@ Estudante de Ciência da Computação no UniCEUB (7º semestre, formatura previs
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| 🤖 **IA Ômega** | Agente IA local autônomo | Python · TypeScript · FastAPI · Next.js |
-| 🗄️ **MiniDB** | Banco de dados relacional em C++20 | C++ · CMake |
-| 🏢 **Site Institucional** | Site para clínica médica | HTML · CSS · JavaScript |
-| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login estilo Windows 95 | CSS · HTML · JavaScript |
+| [🖥️ SO em Rust](https://github.com/37Linard/SO---RUST) | SO bare-metal x86_64 do zero: boot, GDT/IDT, paginação, heap, syscalls, ring3 real, GUI multi-janela, mouse, rede TCP/UDP/ICMP | Rust |
+| [🤖 IA Ômega](https://github.com/37Linard/IA---Omega) | Agente IA autônomo 100% local, sem depender de APIs pagas | Python · FastAPI · Next.js |
+| [🗄️ MiniDB](https://github.com/37Linard/MiniDB) | Banco de dados relacional do zero: storage engine, buffer pool LRU, B+Tree, WAL | C++20 |
+| [🛡️ VulnLab](https://github.com/37Linard/vulnlab) | App Flask vulnerável para estudo — 8 falhas do OWASP Top 10 com exploit e testes documentados | Python |
+| [🎣 Phishing Detector](https://github.com/37Linard/phishing-detector) | Extensão Chrome que detecta phishing em tempo real via heurísticas locais, sem API | Rust |
+| [📚 Obsidian Study Organizer](https://github.com/37Linard/obsidian-study-organizer) | Plugin de repetição espaçada (SM-2) para revisão de problemas do LeetCode | TypeScript |
+| [🏢 Site Institucional](https://github.com/37Linard/Site-Institucional) | Site para clínica médica | HTML · CSS · JavaScript |
 | [🏥 Clínica Médica](https://github.com/37Linard/Clinica-Medica-) | Sistema de gerenciamento para clínica | HTML · CSS · JavaScript |
+| [🖥️ Login Page Win95](https://github.com/37Linard/Login-Page-WIn95) | Tela de login estilo Windows 95 | CSS · HTML · JavaScript |
 | [⚙️ Sistemas Operacionais](https://github.com/37Linard/sistemas-operacionais-ceub-2-2024) | Projetos de SO | Java |
 
-*Repositórios do IA Ômega, MiniDB e Site Institucional ainda não estão públicos — assim que estiverem, é só trocar o nome pelo link.*
+*ClinScribe (ambient scribe clínico PT-BR) está em desenvolvimento privado.*
 
 <!-- LEARNING -->
 ## Em constante evolução 🌱
 
-- 🔐 Estudando fundamentos de cibersegurança e Linux
+- 🐧 Construindo uma distro Linux própria via Buildroot (kernel real + Busybox, GUI X11/fluxbox)
+- 🏥 Desenvolvendo o ClinScribe, um ambient scribe clínico para médicos brasileiros
 - 🧠 Praticando algoritmos e estrutura de dados no LeetCode (Python & C++)
-- 📚 Organizando trilha de estudos e certificações
 
 <!-- STATS -->
 ## GitHub Stats 📊
