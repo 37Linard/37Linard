@@ -5,55 +5,56 @@
 <div align="center">
   <h3>Systems Engineering • Security • AI</h3>
   <p>Brasília, Brasil • Computer Science @ UniCEUB (2027)</p>
-  <p><i>Build from first principles. Understand systems from the inside out.</i></p>
+  <p><i>Gosto de entender sistemas de dentro para fora.</i></p>
 </div>
 
 <div align="center">
-  <a href="mailto:gabrielinard37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/37Linard"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/37Linard"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gabrielinard37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/37Linard">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/37Linard">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
-## About
+## About me
 
-Gosto de entender sistemas de dentro para fora.
+Sou um entusiasta de software de baixo nível, segurança e IA local.  
+Gosto de construir ferramentas do zero, desde kernels bare-metal até agentes que automatizam fluxos de trabalho complexos.  
+Meu foco hoje está em engenharia de sistemas, infraestrutura e software útil de verdade.
 
-Sou engenheiro de sistemas em formação, com foco em software de baixo nível, segurança e IA local. Gosto de construir ferramentas completas do zero, desde kernels bare-metal até agentes que automatizam fluxos de trabalho reais. Meu objetivo é criar software robusto, eficiente e útil.
+## Core skills
 
-## Core Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,py,ts,asm,linux,docker,postgres,fastapi,nextjs,qt,git,github,neovim&perline=7" />
+  </a>
+</p>
 
-**Languages**  
-Rust • C++ • Python • TypeScript • Assembly
-
-**Systems & Infra**  
-Linux Kernel • Docker • Buildroot • QEMU
-
-**AI & Web**  
-FastAPI • Next.js • Ollama • PostgreSQL
-
-## Featured Projects
+## Featured project
 
 ### [SO---RUST](https://github.com/37Linard/SO---RUST)
 Kernel x86_64 bare-metal escrito do zero, sem dependência de sistema operacional host.  
-Multitarefa preemptiva, context switch real, suporte a ring 3, driver RTL8139 e compositor gráfico multi-janela.
+Inclui multitarefa preemptiva com context switch real, suporte a ring 3, driver RTL8139 e compositor gráfico multi-janela com shell dentro da GUI.
 
-### [IA Ômega](https://github.com/37Linard/IA---Omega)
-Agente local autônomo com foco em automação e execução de tarefas assistidas por IA.
+## Other repositories
 
-### [MiniDB](https://github.com/37Linard/MiniDB)
-Motor de banco relacional construído para explorar fundamentos de armazenamento, consultas e estrutura interna de SGBDs.
+- [IA Ômega](https://github.com/37Linard/IA---Omega) — Agente local autônomo para automação inteligente.
+- [MiniDB](https://github.com/37Linard/MiniDB) — Motor de banco relacional para estudar fundamentos de SGBDs.
+- [VulnLab](https://github.com/37Linard/vulnlab) — Ambiente de treinamento em segurança e exploração controlada.
+- [Phishing Detector](https://github.com/37Linard/phishing-detector) — Extensão Chrome para detecção em tempo real.
 
-### [VulnLab](https://github.com/37Linard/vulnlab)
-Ambiente de treinamento em segurança para estudo prático de vulnerabilidades e exploração controlada.
+## Currently building
 
-## Currently Building
+- **Custom Linux Distro** — Distribuição própria com Buildroot e kernel real.
+- **ClinScribe** — Ambient scribe clínico para gerar prontuários SOAP estruturados.
 
-- **Custom Linux Distro**: distribuição própria com Buildroot e kernel real.
-- **ClinScribe**: ambient scribe clínico para transformar consultas em prontuários SOAP estruturados.
-
-## Focus
+## Focus areas
 
 - Low-level engineering.
 - Systems security.
