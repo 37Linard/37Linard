@@ -16,11 +16,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor full-stack cursando **Ciência da Computação** na UniCEUB (conclusão prevista para 2027), em Brasília. Comecei como Jovem Aprendiz em rotinas administrativas (Taguatinga Shopping e Esparta Segurança), o que me deu atenção a detalhes, organização e capacidade de trabalhar em equipe — habilidades que hoje aplico no desenvolvimento de software.
+Comecei mexendo com rotina administrativa e planilha (Jovem Aprendiz no Taguatinga Shopping e depois na Esparta Segurança) — e foi ali que peguei o hábito de prestar atenção em detalhes e organizar bagunça, coisa que hoje uso todo dia no código.
 
-Atualmente sou **desenvolvedor técnico na BSB Comunicação & Estratégia**, onde já coloquei em produção um pipeline de geração de PDFs, uma landing page com automação de e-mail e um sistema de captação de leads. Tenho base em bancos de dados relacionais e, em 2025, concluí certificações em Git & GitHub, Lógica de Programação, Inteligência Artificial e Data Analytics pela Alura.
+Hoje sou **desenvolvedor técnico na BSB Comunicação & Estratégia**: já coloquei no ar um pipeline de geração de PDFs, uma landing page com automação de e-mail e um sistema de captação de leads — tudo rodando em produção.
 
-Estou direcionando minha trajetória para **Security Engineering / AppSec**, unindo desenvolvimento full-stack com fundamentos de cibersegurança — Linux, redes e OWASP Top 10.
+Estou cursando **Ciência da Computação** na UniCEUB (formatura em 2027), em Brasília, e aos poucos migrando o foco pra **Security Engineering / AppSec**: Linux, redes, OWASP Top 10. Em 2025 fechei certificações em Git & GitHub, Lógica de Programação, IA e Data Analytics pela Alura — e sigo estudando.
 
 ```txt
 const gabriel = {
@@ -37,25 +37,6 @@ const gabriel = {
 - 🧩 **Treinando:** algoritmos e lógica em C++ no LeetCode
 - 🎯 **Próximos marcos:** CompTIA Security+ e AWS Cloud Practitioner
 - 💬 **Aberto a:** oportunidades de estágio/trainee em desenvolvimento com foco em segurança
-
-<br>
-
-## 💼 Experiência
-
-**Desenvolvedor técnico** · BSB Comunicação & Estratégia
-*jan/2025 – atual · Brasília, DF*
-- Projetei e implementei um pipeline de geração de PDFs em Flask + ReportLab, com deploy no Railway, eliminando a dependência de sessões manuais para produção de materiais da agência
-- Desenvolvi e publiquei a landing page de RSVP do evento de lançamento da BSB, com automação de confirmação por e-mail (Google Apps Script) e painel de gestão de convidados (Google Sheets)
-- Construí o sistema de captação de leads para registro de marca da BRFW (HTML + Google Apps Script + Google Sheets/Drive)
-- Resolvi problemas de infraestrutura em produção: certificados SSL, configuração de DNS/nameservers e tokens de autenticação de API
-
-**Auxiliar administrativo** · Esparta Segurança Ltda
-*set/2024 – nov/2024 · Brasília, DF*
-- Atividades administrativas, organização de documentos e suporte às rotinas do setor
-
-**Auxiliar administrativo (Jovem Aprendiz)** · Taguatinga Shopping
-*ago/2021 – ago/2023 · Brasília, DF*
-- Dois anos de rotinas administrativas como Jovem Aprendiz
 
 <br>
 
