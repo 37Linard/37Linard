@@ -24,28 +24,33 @@
 
 ## About me
 
-Sou um entusiasta de software de baixo nível, segurança e IA local.  
-Gosto de construir ferramentas do zero, desde kernels bare-metal até agentes que automatizam fluxos de trabalho complexos.  
-Meu foco hoje está em engenharia de sistemas, infraestrutura e software útil de verdade.
+Sou entusiasta de software de baixo nível, segurança e IA local.
+
+Gosto de construir ferramentas do zero, desde kernels bare-metal até agentes que automatizam fluxos de trabalho complexos. Meu foco hoje está em engenharia de sistemas, infraestrutura e software útil de verdade.
 
 ## Core skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,py,ts,asm,linux,docker,postgres,fastapi,nextjs,qt,git,github,neovim&perline=7" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,py,ts,asm,linux,docker,postgres,fastapi,nextjs,git,github,neovim&perline=7" />
   </a>
 </p>
 
 ## Featured project
 
 ### [SO---RUST](https://github.com/37Linard/SO---RUST)
-Kernel x86_64 bare-metal escrito do zero, sem dependência de sistema operacional host.  
-Inclui multitarefa preemptiva com context switch real, suporte a ring 3, driver RTL8139 e compositor gráfico multi-janela com shell dentro da GUI.
+Kernel x86_64 bare-metal escrito do zero, sem dependência de sistema operacional host.
+
+- Multitarefa preemptiva com context switch real.
+- Suporte a ring 3.
+- Driver RTL8139 implementado do zero.
+- Stack TCP/IP validada.
+- Compositor gráfico multi-janela com shell rodando dentro da GUI.
 
 ## Other repositories
 
 - [IA Ômega](https://github.com/37Linard/IA---Omega) — Agente local autônomo para automação inteligente.
-- [MiniDB](https://github.com/37Linard/MiniDB) — Motor de banco relacional para estudar fundamentos de SGBDs.
+- [MiniDB](https://github.com/37Linard/MiniDB) — Motor relacional para estudar fundamentos de SGBDs.
 - [VulnLab](https://github.com/37Linard/vulnlab) — Ambiente de treinamento em segurança e exploração controlada.
 - [Phishing Detector](https://github.com/37Linard/phishing-detector) — Extensão Chrome para detecção em tempo real.
 
