@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Apaixonado+por+tecnologia+e+cybersecurity+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%92%BB;Rumo+a+AppSec+%26+Security+Engineering+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -16,24 +16,56 @@
 
 ## 🧑‍💻 Sobre mim
 
-Estudante de **Ciência da Computação** na UniCEUB (7º semestre, formatura prevista para 2027), com interesse em desenvolvimento full stack, segurança da informação e boas práticas de engenharia de software. Gosto de aprender construindo — projetos reais me ensinam muito mais rápido que teoria pura.
+Desenvolvedor full-stack cursando **Ciência da Computação** na UniCEUB (conclusão prevista para 2027), em Brasília. Comecei como Jovem Aprendiz em rotinas administrativas (Taguatinga Shopping e Esparta Segurança), o que me deu atenção a detalhes, organização e capacidade de trabalhar em equipe — habilidades que hoje aplico no desenvolvimento de software.
 
-Atuo como **parceiro técnico da BSB Comunicação & Estratégia**, uma agência de comunicação e estratégia de conteúdo, onde sou responsável por toda a camada de desenvolvimento por trás das entregas da agência.
+Atualmente sou **desenvolvedor técnico na BSB Comunicação & Estratégia**, onde já coloquei em produção um pipeline de geração de PDFs, uma landing page com automação de e-mail e um sistema de captação de leads. Tenho base em bancos de dados relacionais e, em 2025, concluí certificações em Git & GitHub, Lógica de Programação, Inteligência Artificial e Data Analytics pela Alura.
+
+Estou direcionando minha trajetória para **Security Engineering / AppSec**, unindo desenvolvimento full-stack com fundamentos de cibersegurança — Linux, redes e OWASP Top 10.
 
 ```txt
 const gabriel = {
-  formacao: "Ciência da Computação @ UniCEUB (7º semestre)",
-  papel: "Parceiro técnico @ BSB Comunicação & Estratégia",
-  foco_atual: ["cybersecurity", "algoritmos & estruturas de dados", "certificações"],
+  formacao: "Ciência da Computação @ UniCEUB (2023 – 2027)",
+  papel_atual: "Desenvolvedor técnico @ BSB Comunicação & Estratégia",
+  direcao: "Full-Stack → AppSec & Security Engineering",
+  proximos_marcos: ["CompTIA Security+", "AWS Cloud Practitioner"],
   filosofia: "Learning by doing. Coding with purpose."
 };
 ```
 
-- 🔭 **Construindo:** pipeline interno de geração de PDFs (Flask + ReportLab, hospedado no Railway)
-- 🌐 **Já entreguei:** landing page de RSVP com integração a Google Sheets e o sistema de registro de marca da BRFW (Brasil Fashion Week)
-- 🔐 **Estudando:** cybersecurity, com um roadmap pessoal de certificações em construção
-- 🧩 **Treinando:** lógica e algoritmos no LeetCode, com foco em C++
-- 💬 **Aberto a:** colaborações, projetos e boas conversas sobre tecnologia
+- 🔭 **Atualmente:** desenvolvedor técnico na BSB Comunicação & Estratégia (desde jan/2025)
+- 🛡️ **Direção:** migrando de full-stack para AppSec / Security Engineering
+- 🧩 **Treinando:** algoritmos e lógica em C++ no LeetCode
+- 🎯 **Próximos marcos:** CompTIA Security+ e AWS Cloud Practitioner
+- 💬 **Aberto a:** oportunidades de estágio/trainee em desenvolvimento com foco em segurança
+
+<br>
+
+## 💼 Experiência
+
+**Desenvolvedor técnico** · BSB Comunicação & Estratégia
+*jan/2025 – atual · Brasília, DF*
+- Projetei e implementei um pipeline de geração de PDFs em Flask + ReportLab, com deploy no Railway, eliminando a dependência de sessões manuais para produção de materiais da agência
+- Desenvolvi e publiquei a landing page de RSVP do evento de lançamento da BSB, com automação de confirmação por e-mail (Google Apps Script) e painel de gestão de convidados (Google Sheets)
+- Construí o sistema de captação de leads para registro de marca da BRFW (HTML + Google Apps Script + Google Sheets/Drive)
+- Resolvi problemas de infraestrutura em produção: certificados SSL, configuração de DNS/nameservers e tokens de autenticação de API
+
+**Auxiliar administrativo** · Esparta Segurança Ltda
+*set/2024 – nov/2024 · Brasília, DF*
+- Atividades administrativas, organização de documentos e suporte às rotinas do setor
+
+**Auxiliar administrativo (Jovem Aprendiz)** · Taguatinga Shopping
+*ago/2021 – ago/2023 · Brasília, DF*
+- Dois anos de rotinas administrativas como Jovem Aprendiz
+
+<br>
+
+## 🎓 Formação & Certificações
+
+**UniCEUB** — Ciência da Computação · cursando (fev/2023 – dez/2027)
+
+**Certificações concluídas (2025, Alura):** Git & GitHub · Lógica de Programação · Inteligência Artificial · Data Analytics
+**Outras certificações:** Data Analytics Essentials · English for IT 1
+**Roadmap em andamento:** CompTIA Security+ → AWS Cloud Practitioner
 
 <br>
 
@@ -65,18 +97,24 @@ const gabriel = {
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=39D353)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39D353)
 
-**Backend & Dados**
+**Backend & Automação**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39D353)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=39D353)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0D1117?style=for-the-badge&logo=google&logoColor=39D353)
+
+**Bancos de Dados**
+
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=39D353)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=39D353)
 
-**Ferramentas**
+**Segurança & Infraestrutura**
 
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39D353)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39D353)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D353)
 ![Railway](https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=39D353)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D353)
 
 <br>
 
