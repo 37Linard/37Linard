@@ -1,36 +1,190 @@
-# Gabriel Linard
+<div align="center">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663261394762/HXjzKLYVbqGedPLc.png" width="100%" alt="Gabriel Linard Banner">
+</div>   
+ <div align="center">
+  <h3>Systems Engineering | Security | AI</h3>
+  <p>Brasília, Brasil • Computer Science @ UniCEUB (2027 )</p>
+</div> <div align="center">
+  <a href="mailto:gabrielinard37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/37Linard">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/37Linard">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>   
 
-Brasília, Brasil • Ciência da Computação (UniCEUB, formatura em 2027)
 
-Gosto de entender sistemas de dentro para fora. Tenho experiência construindo software de base do zero — de kernel bare-metal e banco relacional a agentes de IA locais — além de estudar segurança ofensiva desenvolvendo minhas próprias ferramentas.
 
-## Destaque: SO em Rust, do boot ao TCP/IP
 
-**[SO---RUST](https://github.com/37Linard/SO---RUST)** — kernel x86_64 bare-metal escrito do zero, sem dependência de sistema operacional host.
 
-- Boot real com `bootloader`, GDT/TSS/IDT, paginação e alocador de heap próprios.
-- Multitarefa preemptiva com context switch real, syscalls via `int 0x80` e suporte a ring 3.
-- Sistema de arquivos persistente sobre driver ATA PIO próprio, com sobrevivência a reboot.
-- Compositor gráfico multi-janela com mouse PS/2, fonte bitmap desenhada à mão e shell rodando dentro da GUI.
-- Driver de rede RTL8139 implementado do zero com ARP, ICMP, UDP e handshake TCP validado contra `TcpClient` do .NET.
 
-Todo o projeto foi depurado com ferramentas reais — QEMU monitor, serial log e disassembly — até funcionar ponta a ponta.
+🖋️ About me
 
-## Outros projetos
 
-| Projeto | O que é |
-|---|---|
-| [IA Ômega](https://github.com/37Linard/IA---Omega) | Agente de IA autônomo 100% local com Ollama, FastAPI e Next.js, sem dependência de API paga. |
-| [MiniDB](https://github.com/37Linard/MiniDB) | Banco de dados relacional em C++20 com storage engine, buffer pool LRU, B+Tree e WAL. |
-| [VulnLab](https://github.com/37Linard/vulnlab) | Aplicação Flask propositalmente vulnerável, cobrindo 8 falhas do OWASP Top 10 com exploits e testes documentados. |
-| [Phishing Detector](https://github.com/37Linard/phishing-detector) | Extensão Chrome para detecção de phishing em tempo real com heurísticas locais. |
-| [Obsidian Study Organizer](https://github.com/37Linard/obsidian-study-organizer) | Plugin de repetição espaçada com SM-2 para revisar problemas de LeetCode no Obsidian. |
+"Gosto de entender sistemas de dentro para fora."
 
-## Agora
+Sou um entusiasta de software de baixo nível e segurança. Minha trajetória é marcada pela construção de ferramentas do zero, desde kernels bare-metal até agentes de IA locais. Atualmente, foco em engenharia de sistemas e no desenvolvimento de soluções que otimizam fluxos de trabalho complexos.
 
-- Construindo uma distribuição Linux própria com Buildroot, kernel real, BusyBox e interface X11/Fluxbox.
-- Desenvolvendo o **ClinScribe**, um ambient scribe clínico para transformar consultas em prontuários SOAP estruturados para médicos brasileiros.
 
----
+<div align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663261394762/JvWxBoBxQoGaRdaw.png" width="60%" alt="Global Language Distribution">
+</div>
 
-[Email](mailto:gabrielinard37@gmail.com) · [GitHub](https://github.com/37Linard)
+
+
+
+🛠️ Core Skills
+
+<table align="center">
+<tr>
+    <td align="center" width="200">
+      <b>Languages</b>  
+
+      Rust • C++ • Python  
+
+      TypeScript • Assembly
+    </td>
+    <td align="center" width="200">
+      <b>Systems & Infra</b>  
+
+      Linux Kernel • Docker  
+
+      Buildroot • QEMU
+    </td>
+    <td align="center" width="200">
+      <b>AI & Web</b>  
+
+      FastAPI • Next.js  
+
+      Ollama • PostgreSQL
+    </td>
+  </tr>
+</table>
+
+
+
+
+🚀 Featured Project: SO---RUST
+
+<div align="center">
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663261394762/gTaRKAiTQazcjCjf.png" width="80%" alt="SO-RUST Languages">
+</div>
+
+SO---RUST é um kernel x86_64 bare-metal escrito do zero, sem dependência de sistema operacional host.
+
+•
+Multitarefa: Preemptiva com context switch real e suporte a ring 3.
+
+•
+Networking: Driver RTL8139 implementado do zero com stack TCP/IP validada.
+
+•
+Interface: Compositor gráfico multi-janela com shell rodando dentro da GUI.
+
+
+
+
+📂 Other Repositories
+
+Project
+Highlights
+Tech Stack
+IA Ômega
+Autonomous Local AI Agent
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+MiniDB
+Relational Database Engine
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+VulnLab
+Security Training Environment
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Phishing Detector
+Real-time Chrome Extension
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏗️ Currently Building
+
+•
+🐧 Custom Linux Distro: Construindo uma distribuição própria com Buildroot e kernel real.
+
+•
+🩺 ClinScribe: Ambient scribe clínico para transformar consultas em prontuários SOAP estruturados.
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+</div>
+
