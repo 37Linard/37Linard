@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663261394762/HXjzKLYVbqGedPLc.png" width="100%" alt="Gabriel Linard">
-</div>
-
-<br>
-
-<div align="center">
   <h1>Gabriel Linard</h1>
   <h3>Systems Engineering • Security • AI</h3>
   <p>
