@@ -94,9 +94,9 @@ const gabriel = {
 
 <div align="center">
 
-[![IA---Omega](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=IA---Omega&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/IA---Omega)
-[![SO---RUST](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=SO---RUST&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/SO---RUST)
-[![MiniDB](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=MiniDB&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/MiniDB)
+[![IA---Omega](https://img.shields.io/badge/GitHub-IA--Omega-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/37Linard/IA---Omega)
+[![SO---RUST](https://img.shields.io/badge/GitHub-SO--RUST-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/37Linard/SO---RUST)
+[![MiniDB](https://img.shields.io/badge/GitHub-MiniDB-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/37Linard/MiniDB)
 
 </div>
 
@@ -110,15 +110,13 @@ const gabriel = {
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📈 GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=37Linard&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=37Linard&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" width="48%" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=37Linard&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" width="70%" />
+![Seguidores](https://img.shields.io/github/followers/37Linard?style=for-the-badge&logo=github&logoColor=39D353&color=0D1117&label=SEGUIDORES)
+[![Ver repositórios](https://img.shields.io/badge/Ver%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/37Linard?tab=repositories)
+
 </div>
 
 <br>
