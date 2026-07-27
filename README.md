@@ -16,11 +16,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Comecei mexendo com rotina administrativa e planilha (Jovem Aprendiz no Taguatinga Shopping e depois na Esparta Segurança) — e foi ali que peguei o hábito de prestar atenção em detalhes e organizar bagunça, coisa que hoje uso todo dia no código.
+**Desenvolvedor técnico na BSB Comunicação & Estratégia**, em Brasília — coloquei em produção um pipeline de geração de PDFs, uma landing page com automação de e-mail e um sistema de captação de leads.
 
-Hoje sou **desenvolvedor técnico na BSB Comunicação & Estratégia**: já coloquei no ar um pipeline de geração de PDFs, uma landing page com automação de e-mail e um sistema de captação de leads — tudo rodando em produção.
-
-Estou cursando **Ciência da Computação** na UniCEUB (formatura em 2027), em Brasília, e aos poucos migrando o foco pra **Security Engineering / AppSec**: Linux, redes, OWASP Top 10. Em 2025 fechei certificações em Git & GitHub, Lógica de Programação, IA e Data Analytics pela Alura — e sigo estudando.
+Curso **Ciência da Computação** na UniCEUB (formatura em 2027) e migro o foco pra **Security Engineering / AppSec**: Linux, redes, OWASP Top 10 — aplicando isso em projetos de sistemas de baixo nível: um SO bare-metal em Rust, um banco de dados relacional do zero em C++20 e um agente de IA local com sandboxing e guardas de segurança.
 
 ```txt
 const gabriel = {
@@ -37,16 +35,6 @@ const gabriel = {
 - 🧩 **Treinando:** algoritmos e lógica em C++ no LeetCode
 - 🎯 **Próximos marcos:** CompTIA Security+ e AWS Cloud Practitioner
 - 💬 **Aberto a:** oportunidades de estágio/trainee em desenvolvimento com foco em segurança
-
-<br>
-
-## 🎓 Formação & Certificações
-
-**UniCEUB** — Ciência da Computação · cursando (fev/2023 – dez/2027)
-
-**Certificações concluídas (2025, Alura):** Git & GitHub · Lógica de Programação · Inteligência Artificial · Data Analytics
-**Outras certificações:** Data Analytics Essentials · English for IT 1
-**Roadmap em andamento:** CompTIA Security+ → AWS Cloud Practitioner
 
 <br>
 
@@ -69,6 +57,7 @@ const gabriel = {
 **Linguagens**
 
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=39D353)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=39D353)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39D353)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=39D353)
 
@@ -82,6 +71,7 @@ const gabriel = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39D353)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=39D353)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=39D353)
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0D1117?style=for-the-badge&logo=google&logoColor=39D353)
 
 **Bancos de Dados**
@@ -94,19 +84,27 @@ const gabriel = {
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39D353)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39D353)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39D353)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39D353)
 ![Railway](https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=39D353)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=39D353)
 
 <br>
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-[![Clínica Médica](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=Clinica-Medica-&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/Clinica-Medica-)
-[![Login Page Win95](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=Login-Page-WIn95&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/Login-Page-WIn95)
+[![IA---Omega](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=IA---Omega&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/IA---Omega)
+[![SO---RUST](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=SO---RUST&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/SO---RUST)
+[![MiniDB](https://github-readme-stats.vercel.app/api/pin/?username=37Linard&repo=MiniDB&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9)](https://github.com/37Linard/MiniDB)
 
 </div>
+
+**🤖 IA---Omega** — Agente de IA autônomo rodando 100% local (Ollama), sem dependência de APIs pagas. Arquitetura multi-agente com 32 ferramentas, RAG híbrido, sandbox WASM/Docker para execução isolada, e camada de segurança completa (guard de prompt-injection, proteção SSRF, HITL por nível de risco, audit log).
+
+**🦀 SO---RUST** — Sistema operacional bare-metal escrito do zero em Rust (x86_64): boot, GDT/IDT, paginação, heap allocator, syscalls com salto real pra ring3, driver de rede (ARP/ICMP/UDP/TCP) e compositor gráfico multi-janela — sem depender de nenhum SO por baixo.
+
+**🗄️ MiniDB** — Banco de dados relacional construído do zero em C++20, sem bibliotecas externas na engine: storage engine paginado, buffer pool com LRU, B+Tree indexada e Write-Ahead Log — projeto de estudo estilo CMU 15-445.
 
 > Além dos repositórios públicos, também desenvolvo sistemas internos para a BSB Comunicação & Estratégia: um pipeline Flask + ReportLab para geração automática de PDFs de clientes, uma landing page de RSVP com back-end em Google Apps Script, e o sistema de registro de marca da BRFW.
 
