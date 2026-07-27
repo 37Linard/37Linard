@@ -4,7 +4,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/gabriel-linard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39D353)](https://instagram.com/gabriel_linard37)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:gabrielinard37@gmail.com)
 
@@ -110,22 +110,11 @@ const gabriel = {
 
 <br>
 
-## 📈 GitHub
-
-<div align="center">
-
-![Seguidores](https://img.shields.io/github/followers/37Linard?style=for-the-badge&logo=github&logoColor=39D353&color=0D1117&label=SEGUIDORES)
-[![Ver repositórios](https://img.shields.io/badge/Ver%20reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/37Linard?tab=repositories)
-
-</div>
-
-<br>
-
 ## 📫 Vamos conversar?
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/gabriel-linard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-linard)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39D353)](https://instagram.com/gabriel_linard37)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:gabrielinard37@gmail.com)
 
