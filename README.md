@@ -24,9 +24,8 @@ const gabriel = {
 
 - 🔭 **Atualmente:** desenvolvedor técnico na BSB Comunicação & Estratégia (desde jan/2025)
 - 🛡️ **Direção:** migrando de full-stack para AppSec / Security Engineering
-- 🧩 **Treinando:** algoritmos e lógica em C++ no LeetCode
 - 🎯 **Próximos marcos:** CompTIA Security+ e AWS Cloud Practitioner
-- 💬 **Aberto a:** oportunidades de estágio/trainee em desenvolvimento com foco em segurança
+
 
 <br>
 
