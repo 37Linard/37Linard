@@ -22,7 +22,7 @@ const gabriel = {
 };
 ```
 
-- 🔭 **Atualmente:** desenvolvedor técnico na BSB Comunicação & Estratégia (desde jan/2025)
+- 🔭 **Atualmente:** desenvolvedor técnico na BSB Comunicação & Estratégia 
 - 🛡️ **Direção:** migrando de full-stack para AppSec / Security Engineering
 - 🎯 **Próximos marcos:** CompTIA Security+ e AWS Cloud Practitioner
 
