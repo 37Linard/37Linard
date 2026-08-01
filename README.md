@@ -8,8 +8,6 @@
 
 ## 🧑‍💻 Sobre mim
 
-**Desenvolvedor técnico na BSB Comunicação & Estratégia**, em Brasília — coloquei em produção um pipeline de geração de PDFs, uma landing page com automação de e-mail e um sistema de captação de leads.
-
 Curso **Ciência da Computação** na UniCEUB (formatura em 2027) e migro o foco pra **Security Engineering / AppSec**: Linux, redes, OWASP Top 10 — aplicando isso em projetos de sistemas de baixo nível: um SO bare-metal em Rust, um banco de dados relacional do zero em C++20 e um agente de IA local com sandboxing e guardas de segurança.
 
 ```txt
